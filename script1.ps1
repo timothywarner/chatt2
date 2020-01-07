@@ -1,2 +1,2 @@
-write-output "Hello"
+write-output "Hi ho!"
 Clear-Host
